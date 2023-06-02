@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473499629401",
+    "project_id": "ask-gcet",
+    "storage_bucket": "ask-gcet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473499629401:android:a3e6dd9beacd69e8767e48",
+        "android_client_info": {
+          "package_name": "com.ask.gcet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473499629401-grs64p0jd033oetgp9torc6buk0nnvos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZVsa2MdfLIbg_uy3AGJ8sHRkiBz7oJDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473499629401-grs64p0jd033oetgp9torc6buk0nnvos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
